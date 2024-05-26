@@ -9,6 +9,9 @@
     "type": "git",
     "url": ""
   },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
